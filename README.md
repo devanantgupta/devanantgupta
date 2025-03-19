@@ -5,7 +5,7 @@ I'm a passionate **Frontend Developer** with a growing curiosity about the **Bac
 🌟 **What Drives Me:**
 
 - Building smooth, interactive user experiences.
-- Exploring how frontend and backend communicate to bring ideas to life.
+- Exploring how Frontend and Backend communicate to bring ideas to life.
 - Embracing professionalism and the dynamic corporate environment.
 - Pursuing progress over perfection.
 - Effective and efficient team communication in software development.
